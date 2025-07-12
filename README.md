@@ -18,7 +18,7 @@ I'm Ari Widyatama, an aspiring Machine Learning Engineer & Data Enthusiast passi
 <p align="left">
 <a href="https://github.com/AriWidyatama">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AriWidyatama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AriWidyatama&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AriWidyatama&layout=compact&theme=algolia&langs_count=10"/>
 </a>
 </p>
 
