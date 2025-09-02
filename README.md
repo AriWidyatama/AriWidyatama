@@ -4,7 +4,7 @@ I'm Ari Widyatama, an aspiring Machine Learning Engineer & Data Enthusiast passi
 
 ### 🌱 What I'm Working On
 - Predictive Modeling & Time-Series Analysis 📈
-- Natural Language Processing (NLP) 🏥💬
+- Natural Language Processing (NLP) 💬
 - Machine Learning Operations (MLOps) & Model Deployment 🚀
 - Deep Learning with TensorFlow & PyTorch 🤖
 
