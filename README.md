@@ -2,7 +2,7 @@
 
 I'm Ari Widyatama, an aspiring Machine Learning Engineer & Data Enthusiast passionate about Artificial Intelligence, NLP, and MLOps. I'm currently exploring the intersection of deep learning and real-world applications, working on projects that bring AI closer to solving real problems. I am also interested in building a website and integrating it with artificial intelligence. 🚀
 
-### 🏆 Certifications & Learning Journey
+### 🏆 Certifications & Learning Journey 🌱
 - 🏅 Automation with Python
 - 📊 data analysis with Python
 - 🎓 Machine Learning & TensorFlow
@@ -22,4 +22,3 @@ I'm Ari Widyatama, an aspiring Machine Learning Engineer & Data Enthusiast passi
 
 ### 📫 Let's Connect!
 - 💼 [Linkedin](https://www.linkedin.com/in/i-putu-suka-ari-widyatama-374a67252/)
-- ✉️ Reach me at: ariwidyatama86@gmail.com
