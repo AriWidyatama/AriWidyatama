@@ -21,4 +21,4 @@ I'm Ari Widyatama, an aspiring Machine Learning Engineer & Data Enthusiast passi
 </p>
 
 ### 📫 Let's Connect!
-- 💼 [Linkedin](www.linkedin.com/in/ari-widyatama)
+- 💼 [Linkedin](https://www.linkedin.com/in/ari-widyatama/)
